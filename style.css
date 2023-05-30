@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+}
+.item{
+    background-color: brown;
+    display: flex;
+    flex: 1;
+    color: white;
+    height: 47px;
+    margin: 10px 10px;
+}
+.itemMaior{
+    background-color: brown;
+    display: flex;
+    flex: 2;
+    color: white;
+    height: 47px;
+    margin: 10px 10px;
+}
+p {
+    width: 100%;
+    text-align: center;
+}
